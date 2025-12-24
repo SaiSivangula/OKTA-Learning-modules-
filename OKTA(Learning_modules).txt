@@ -1,0 +1,90 @@
+OKTA
+General IAM Topics
+Introduction of Identity and Access Management (Why, How, What)
+Identity Management ·
+IAM basic terms (User, Groups, Identity, Accounts, Role, Entitlements, workflow, policies, Rules, tasks, Password Management, Self Service etc.)
+Life Cycle Management (JML, Provisioning/Deprovisioning)
+Role Based Access Control (RBAC)
+Access Management
+Authentication vs Authorization
+Single Sign On
+Multi factor Authentication (MFA) , Sign On Policies
+SAML(Assertions and SP and Idp flow)
+WS – Fed, SWA
+OAuth and OIDC
+
+Module 1: Okta Overview
+Architecture & Okta Gateway
+Okta SaaS Env, Releases/Versions, Support Types
+Okta Integration Network (OIN), SWA ( Secure Web Authentication)
+S AML, OpenID, OAuth 2.0, WS Fed
+Users ( Internal & External Users )
+Groups
+Roles
+Applications
+Authorization Server & API Management
+Scopes & Claims
+Access Policy
+Logs
+SCIM
+
+Module 2: Okta Users & Groups
+Create Users in Okta – Manual & CSV. ( End Users & Admin Users )
+Import vs JIT ( Just in time provisioning )
+User various Users Profiles, attributes · User Experience
+Manage Groups & Roles
+Profiles
+Okta Expression Language
+Attribute Mapping, and Mastering Profiles
+End user self-service capabilities and how they are used
+Manage and use self-service password reset, account unlock, and multifactor authentication (MFA) enrollment/reset
+Distinguish between self-service password reset with Active Directory mastered users vs Okta mastered users.
+
+Module 3: Okta Security
+Okta Policy Framework ( Password, Multi-factor, Okta SignOn, Application Sign-on)
+Multi-factor Authentication ( Select the factors, Factor Enrollment, Enforce the Policy) o End Users o Admin Users
+Network Zones
+Password Policies
+Password Policy Rules
+Provide access to different delegation admin roles
+Explain all the admin roles and how they can be combined
+Differentiate admin roles based on the skills.
+
+Module 4: Configure External Directories
+Install and configure the Okta AD Directory agent
+Configure Okta as a service provider
+Manage delegated authentication with AD using Okta agents
+Import and manage users coming from AD in Okta
+SAML, WS-FED,SWA, or OIDC protocols. OIDC, OAuth2.0, Flows in OIDC, Types of Tokens, Custom Authorization server and configuration, Scopes, Profiles
+Managing identities using Universal Directory
+Map attributes from a source to a target using the Profile Editor
+Describe how to use the Okta Expression Language to transform data
+Explain how attributes can be mastered at the profile and attribute levels
+Explain how deactivating a user impacts other events.
+
+Module 5: Configure SSO and Provisioning
+Understanding of the SAML assertion
+How to set up a template application
+How Okta supports non-OIN applications
+
+Module 6: Configure Custom App Integrations
+User Lifecycle Management
+Configure Okta user profiles, application profiles, and directory profiles
+Manage user’s ability to reset self- service password with Active Directory mastered users or Okta mastered users
+
+Module 7: API Management
+Okta Rest APIs
+Okta Rest API Architecture
+API return Codes & Errors
+
+Module 8: Configure Universal Directory
+Configure password policies for Okta mastered users
+Configure password policies for Active Directory mastered users.
+
+Module 9: Monitor Your Okta Org
+Understanding of Okta logging
+Interpret Okta logging resources
+Explain the logging options available for in depth troubleshooting, security, and auditing
+Identify where logs are located based on the operating system
+Run and interpret system logs
+
