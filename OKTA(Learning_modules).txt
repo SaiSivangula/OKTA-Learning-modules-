@@ -1,7 +1,7 @@
 OKTA
 General IAM Topics
 Introduction of Identity and Access Management (Why, How, What)
-Identity Management ·
+Identity Management Â·
 IAM basic terms (User, Groups, Identity, Accounts, Role, Entitlements, workflow, policies, Rules, tasks, Password Management, Self Service etc.)
 Life Cycle Management (JML, Provisioning/Deprovisioning)
 Role Based Access Control (RBAC)
@@ -10,14 +10,14 @@ Authentication vs Authorization
 Single Sign On
 Multi factor Authentication (MFA) , Sign On Policies
 SAML(Assertions and SP and Idp flow)
-WS – Fed, SWA
+WS â€“ Fed, SWA
 OAuth and OIDC
 
 Module 1: Okta Overview
 Architecture & Okta Gateway
 Okta SaaS Env, Releases/Versions, Support Types
 Okta Integration Network (OIN), SWA ( Secure Web Authentication)
-S AML, OpenID, OAuth 2.0, WS Fed
+SAML, OpenID, OAuth 2.0, WS Fed
 Users ( Internal & External Users )
 Groups
 Roles
@@ -29,9 +29,9 @@ Logs
 SCIM
 
 Module 2: Okta Users & Groups
-Create Users in Okta – Manual & CSV. ( End Users & Admin Users )
+Create Users in Okta â€“ Manual & CSV. ( End Users & Admin Users )
 Import vs JIT ( Just in time provisioning )
-User various Users Profiles, attributes · User Experience
+User various Users Profiles, attributes Â· User Experience
 Manage Groups & Roles
 Profiles
 Okta Expression Language
@@ -70,7 +70,7 @@ How Okta supports non-OIN applications
 Module 6: Configure Custom App Integrations
 User Lifecycle Management
 Configure Okta user profiles, application profiles, and directory profiles
-Manage user’s ability to reset self- service password with Active Directory mastered users or Okta mastered users
+Manage userâ€™s ability to reset self- service password with Active Directory mastered users or Okta mastered users
 
 Module 7: API Management
 Okta Rest APIs
@@ -87,4 +87,5 @@ Interpret Okta logging resources
 Explain the logging options available for in depth troubleshooting, security, and auditing
 Identify where logs are located based on the operating system
 Run and interpret system logs
+
 
